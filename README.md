@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Debashis</h1>
 ### 👨‍💻 About Me
 - 🌱 I'm currently learning and exploring programming
-- 📫 How to reach me: mail- mazumdarmandeep07@gmail.com
+- 📫 How to reach me: mail- debashismazumdar67@gmail.com
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mandeepmazumdar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mandeepmazumdar&theme=dark&hide_border=false)<br/>
